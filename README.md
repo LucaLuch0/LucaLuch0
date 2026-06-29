@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey! 👋
+Welcome to my profile!
 
--   📖: I am studying **Computer Science (BSc)**
--   :monocle_face: Interested in everything **Hardware and AI**
--   :heart: Open Source Software
+-   📖 I am studying **Computer Science (BSc)**
+-   🧐 Interested in everything **Hardware and AI**
+-   ❤️ Open Source Software
